@@ -19,6 +19,7 @@
                     <h4>Maria Silva</h4>
                     This is a square image. Add the "circle" class to it to make it appear circular.
                   </span>
+                  teste
                 </grid-vue>
               </div>
             </card-menu-vue>
